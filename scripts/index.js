@@ -1,0 +1,1 @@
+var pirate = require('./pirate.js');

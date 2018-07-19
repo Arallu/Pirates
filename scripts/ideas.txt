@@ -1,0 +1,7 @@
+système de compétences pour le pirate : 
+- commerce
+- combat 
+- navigation
+- exploration
+- diplomatie
+...
